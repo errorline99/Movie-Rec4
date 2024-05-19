@@ -60,7 +60,6 @@ const rated = async () => {
     return needs
 }
 
-rated()
 
 
 const weekRated = async () => {

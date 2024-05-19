@@ -1,9 +1,9 @@
 
 import Home from './page';
 // import '../Gone.css';
-import Uses from './components/uses';
+import Uses from './uses';
 import RootLayout from './layout';
-import Client from './components/page'
+import Client from './wish'
 
 
 export function vv() {
